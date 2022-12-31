@@ -89,18 +89,7 @@ function EmailList() {
             time={new Date(timestamp?.seconds * 1000).toUTCString()}
             />
         ))}
-        <EmailRow
-          title="QLF"
-          subject="J'veux du L, j'veux du V, j'veux du G"
-          description="Deux Freres"
-          time="9pm"
-        />
-        <EmailRow
-          title="QLF"
-          subject="J'veux du L, j'veux du V, j'veux du G J'veux du L, j'veux du V, j'veux du G"
-          description="Deux Freres"
-          time="9pm"
-        />
+
         
       </div>
     </div>
