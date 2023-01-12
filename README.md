@@ -26,3 +26,4 @@ https://clone-ad263.web.app/
 - Check email timing sort
 - Fix some css
 - Fix (required) message when composing email
+- Finish features list
